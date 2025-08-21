@@ -1,0 +1,8 @@
+yt-dlp
+openai-whisper
+crewai[tools]
+python-dotenv
+transformers
+langchain_google_genai
+torch
+pydantic
