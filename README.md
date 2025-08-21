@@ -21,7 +21,7 @@ It leverages **Whisper ASR**, **CrewAI Agents**, and **Google Gemini** for langu
 Clone the repository and install dependencies:  
 
 ```bash
-git clone https://github.com/your-username/meeting-transcriber.git
+git clone https://github.com/ismaillalyaan/Meeting-Transcriber-Summarizer-with-AI-Agents/tree/main
 cd meeting-transcriber
 
 pip install -r requirements.txt
